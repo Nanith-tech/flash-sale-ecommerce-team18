@@ -1,0 +1,14 @@
+:root {
+  --canvas: #fcfcfa;
+  --ink: #20211f;
+  --muted: #64645f;
+  --accent: #c94320;
+  --accent-hover: #ad3517;
+  --surface: #f0f0ec;
+  --line: #deded8;
+  --hero: #e8e5ef;
+  --font: 'DM Sans Variable', sans-serif;
+  --radius-control: 4px;
+  --radius-stage: 12px;
+  --ease: cubic-bezier(0.16, 1, 0.3, 1);
+}
